@@ -1,0 +1,38 @@
+{
+  "id": "8daec43b-3c2c-4138-a2df-ead71054806d",
+  "name": "Bitcoin Price",
+  "publisher": "borisimple",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "Show Bitcoin Price",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "https://github.com/borisimple",
+  "logo": "logo/btc.png",
+  "dependencies": [
+    {
+      "id": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "publisher": "Microsoft",
+      "name": "System Application",
+      "version": "16.0.0.0"
+    },
+    {
+      "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "publisher": "Microsoft",
+      "name": "Base Application",
+      "version": "16.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "16.0.0.0",
+  "idRanges": [
+    {
+      "from": 50125,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://BitcoinPrice.com/help/",
+  "showMyCode": true,
+  "runtime": "5.0"
+}
